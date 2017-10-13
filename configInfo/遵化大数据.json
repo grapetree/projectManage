@@ -24,8 +24,8 @@
   },
   "bug": {
     "total": 59,                     
-    "resolved": 58,                  
-    "unsolved": 1                     
+    "resolved": 59,                  
+    "unsolved": 0                     
   },
   "others": {
     "remark": "企业端，政府端，消费端，运维端提测中，决策分析处于开发中"   
